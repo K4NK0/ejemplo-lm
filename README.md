@@ -2,4 +2,4 @@
 
 ## Juanjo Gimenez
 
-[indice] (apartado1.md)
+[indice](apartado1.md)
